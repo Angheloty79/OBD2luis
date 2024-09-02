@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.DS_Store
+
+tsconfig.json
+tslint.json
+typings.json
+typings
+*.ts
+!*.d.ts
+!*.js
